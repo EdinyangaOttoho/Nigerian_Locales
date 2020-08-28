@@ -10,3 +10,9 @@ This is quite simple, by the way. Simply call the function fetchLGA() which take
   fetchLGA('Akwa Ibom');
 ```
  That will simply return array=> ['Ikot Ekpene', ...]
+ 
+ 
+ 
+ 
+ 
+ Goodluck 😉😉
